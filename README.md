@@ -1,2 +1,5 @@
 # SmartMirror
-Đồ án 1
+Các folder bao gồm:
+
+- Code hiện tại trên Raspberry 
+- Các file báo cáo 
